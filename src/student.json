@@ -1,0 +1,84 @@
+{
+    "studentList": [
+      {
+        "id": 1,
+        "name": "Alpha",
+        "age": 25,
+        "gender": "Male",
+        "email": "Alpha@yahoo.com",
+        "average_grade": 8.6
+      },
+      {
+        "id": 2,
+        "name": "Beta",
+        "age": 24,
+        "gender": "Male",
+        "email": "Beta123@yahoo.com",
+        "average_grade": 9.5
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "age": 26,
+        "gender": "Female",
+        "email": "charlie@gmail.com",
+        "average_grade": 6.0
+      },
+      {
+        "id": 4,
+        "name": "Delta",
+        "age": 22,
+        "gender": "Male",
+        "email": "delta9898@gmail.com",
+        "average_grade": 8.4
+      },
+      {
+        "id": 5,
+        "name": "Elie",
+        "age": 29,
+        "gender": "Female",
+        "email": "eliestud@yahoo.com",
+        "average_grade": 7.8
+      },
+      {
+        "id": 6,
+        "name": "Gaama",
+        "age": 25,
+        "gender": "Female",
+        "email": "studgama@yahoo.com",
+        "average_grade": 8.3
+      },
+      {
+        "id": 7,
+        "name": "Finto",
+        "age": 24,
+        "gender": "Male",
+        "email": "fintstudent@gmail.com",
+        "average_grade": 8.5
+      },
+      {
+        "id": 8,
+        "name": "Harry",
+        "age": 27,
+        "gender": "Male",
+        "email": "harryboy@gmail.com",
+        "average_grade": 5.7
+      },
+      {
+        "id": 9,
+        "name": "Embass",
+        "age": 29,
+        "gender": "Female",
+        "email": "embassymail@gmail.com",
+        "average_grade": 8.0
+      },
+      {
+        "id": 10,
+        "name": "Anie",
+        "age": 24,
+        "gender": "Female",
+        "email": "Aniegirl@yahoo.com",
+        "average_grade": 9.2
+      }
+    ]
+  }

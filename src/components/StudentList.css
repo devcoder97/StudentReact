@@ -1,0 +1,19 @@
+/*h1 with text color red and text align to center*/
+h1 {
+  color: rgb(241, 16, 16);
+  text-align: center;
+}
+
+/*Table, th, td, tr with width 85vw, border 1px solid black, padding 10px, background to #6e99f0, text color to black, margin to 3%*/
+table,
+th,
+td,
+tr {
+  width: 85vw;
+  border: 1px solid #2f343e;
+  border-collapse: collapse;
+  padding: 10px;
+  background: #6e99f0;
+  color: #000000;
+  margin: 3%;
+}
